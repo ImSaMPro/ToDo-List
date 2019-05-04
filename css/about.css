@@ -1,0 +1,29 @@
+/*
+Made by ImSaMPro
+https://www.github.com/imsampro
+https://www.facebook.com/imsampro
+*/
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto', sans-serif;
+	background:url(../img/bg.png);
+}
+.navbar-default{
+	background-color: #ecf0f1;
+}
+a i{
+	color: #2c3e50;
+	padding-right: 15px;
+}
+.navbar-brand{
+	font-family: cursive;
+}
+.board-item{
+	background:url(../img/bg.png);
+}
+/*
+Made by ImSaMPro
+https://www.github.com/imsampro
+https://www.facebook.com/imsampro
+*/

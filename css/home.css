@@ -1,0 +1,68 @@
+/*
+Made by ImSaMPro
+https://www.github.com/imsampro
+https://www.facebook.com/imsampro
+*/
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto', sans-serif;
+	background:url(../img/bg.png);
+}
+.navbar-default{
+	background-color: #ecf0f1;
+}
+a i{
+	color: #2c3e50;
+	padding-right: 15px;
+}
+.navbar-brand{
+	font-family: cursive;
+}
+
+.new-board{
+	background-color: #F8FFAE;
+	padding: 10px 20px;
+	font-family: cursive;
+	color: black;
+}
+.board-icon{
+	float: right;
+}
+
+.board{
+	list-style-type: none;
+	padding:0;
+	margin: 0;
+}
+input[type="text"]{
+	margin: 0;
+	width: 100%;
+	padding:15px;
+	border:4px solid rgba(0,0,0,0);
+	margin-bottom: 5px;
+}
+.board-item{
+	background-color: #E7E9BB;
+	width:23%;
+	height:120px;
+	float: left;
+	margin-top:2%;
+	margin-right: 2%;
+	padding:15px;
+	box-shadow: 3px 3px 3px #1f1f1f;
+	font-size: 24px;
+	border-radius: 7px;
+	font-variant: small-caps;
+}
+.icon-edit{
+	float: right;
+}
+.fa-edit{
+	color: black;
+}
+/*
+Made by ImSaMPro
+https://www.github.com/imsampro
+https://www.facebook.com/imsampro
+*/
