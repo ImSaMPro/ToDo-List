@@ -1,68 +1,68 @@
 /*
 Made by ImSaMPro
 https://www.github.com/imsampro
-https://www.facebook.com/imsampro
+https://www.linkedin.com/in/imsampro
 */
-body{
-	margin: 0px;
-	padding: 0px;
-	font-family: 'Roboto', sans-serif;
-	background:url(../img/bg.png)
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", sans-serif;
+  background: url(../img/bg.png);
 }
-.navbar-default{
-	background-color: #ecf0f1;
+.navbar-default {
+  background-color: #ecf0f1;
 }
-a i{
-	color: #2c3e50;
-	padding-right: 15px;
+a i {
+  color: #2c3e50;
+  padding-right: 15px;
 }
-.navbar-brand{
-	font-family: cursive;
+.navbar-brand {
+  font-family: cursive;
 }
 
-.content{
-	padding: 0;
-	margin: 0;
-	background-color: #F8FFAE;
-	box-shadow: 3px 3px 3px #1f1f1f;
+.content {
+  padding: 0;
+  margin: 0;
+  background-color: #f8ffae;
+  box-shadow: 3px 3px 3px #1f1f1f;
 }
-.todo-board{
-	background-color: #43C6AC;
-	padding: 10px 20px;
-	margin: 0;
-	font-size: 24px;
-	font-family: cursive;
+.todo-board {
+  background-color: #43c6ac;
+  padding: 10px 20px;
+  margin: 0;
+  font-size: 24px;
+  font-family: cursive;
 }
-.todo-icon{
-	float: right;
+.todo-icon {
+  float: right;
 }
-input[type="text"]{
-	width: 100%;
-	padding: 10px;
-	border:2px solid rgba(0,0,0,0);
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid rgba(0, 0, 0, 0);
 }
-input[type="text"]:focus{
-	border-color: #219CF3;
+input[type="text"]:focus {
+  border-color: #219cf3;
 }
-ul{
-	list-style-type: none;
-	margin: 0;
+ul {
+  list-style-type: none;
+  margin: 0;
 }
 
 li.todo-item {
-	background: #F8FFAE;
-	height: 40px;
-	line-height: 40px;
-	color: #666;
-	text-transform: uppercase;
+  background: #f8ffae;
+  height: 40px;
+  line-height: 40px;
+  color: #666;
+  text-transform: uppercase;
 }
 
 .completed {
-	color: gray;
-	text-decoration: line-through;
+  color: gray;
+  text-decoration: line-through;
 }
 /*
 Made by ImSaMPro
 https://www.github.com/imsampro
-https://www.facebook.com/imsampro
+https://www.linkedin.com/in/imsampro
 */
